@@ -85,7 +85,6 @@ const up = () => {
 ```
 * setup()
 * <script setup>을 사용하면 위 코드처럼 간결하게 작성할 수 있다.
-* s
 
 # 참고자료
 * https://ko.vuejs.org/guide/essentials/reactivity-fundamentals.html
